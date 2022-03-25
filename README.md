@@ -1,5 +1,7 @@
 
 **Hi there 👋**
+
+
 I'm a Software Engineer at Perfectum. I love writing and teaching code, mostly in JavaScript.
 
 About Me
